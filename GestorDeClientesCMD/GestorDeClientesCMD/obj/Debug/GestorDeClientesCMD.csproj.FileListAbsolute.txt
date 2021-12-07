@@ -1,0 +1,7 @@
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.exe.config
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.pdb
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.csproj.AssemblyReference.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.csproj.CoreCompileInputs.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto2GestorClientesCMD\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.pdb
